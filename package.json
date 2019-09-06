@@ -1,0 +1,28 @@
+{
+  "name": "leccion",
+  "version": "1.0.0",
+  "description": "leccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cccastro09/leccionNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cccastro09/leccionNode/issues"
+  },
+  "homepage": "https://github.com/cccastro09/leccionNode#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "express-handlebars": "^3.0.0",
+    "knex": "^0.16.3",
+    "method-override": "^3.0.0",
+    "pg": "^7.8.0"
+  }
+}
